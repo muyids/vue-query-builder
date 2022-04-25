@@ -1,0 +1,1585 @@
+[
+  {
+      "label": "跑步",
+      "type": "text",
+      "id": 4,
+      "nodeType": 2,
+      "property": "run"
+  },
+  {
+      "id": 6,
+      "nodeType": 1,
+      "property": "sing"
+  },
+  {
+      "label": "网球",
+      "type": "text",
+      "id": 13,
+      "nodeType": 2,
+      "property": "tennis"
+  },
+  {
+      "label": "乒乓球",
+      "type": "text",
+      "id": 14,
+      "nodeType": 2,
+      "property": "pingpong"
+  },
+  {
+      "label": "标签-1",
+      "type": "text",
+      "id": 16,
+      "nodeType": 2,
+      "property": "tag1"
+  },
+  {
+      "content": "",
+      "desc": "大萨达撒",
+      "type": "text",
+      "id": 24,
+      "nodeType": 2,
+      "property": "2121"
+  },
+  {
+      "id": 28,
+      "nodeType": 1,
+      "property": " "
+  },
+  {
+      "content": "",
+      "desc": "大萨达撒",
+      "type": "text",
+      "id": 30,
+      "nodeType": 2,
+      "property": "flow"
+  },
+  {
+      "label": "哈哈",
+      "type": "text",
+      "id": 34,
+      "nodeType": 2,
+      "property": ""
+  },
+  {
+      "id": 59,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "content": "select pid as id, pid as value from data_assets.ads_profile_all_attributes_information_detail_yxc_v1",
+      "desc": "客流id",
+      "type": "text",
+      "id": 82,
+      "nodeType": 2,
+      "property": "pid"
+  },
+  {
+      "content": "select pid as id, age as value from data_assets.ads_profile_all_attributes_information_detail_yxc_v1",
+      "desc": "",
+      "valType": 2,
+      "id": 83,
+      "nodeType": 2,
+      "property": "life_stage"
+  },
+  {
+      "content": "",
+      "desc": "dsdsa",
+      "type": "text",
+      "id": 84,
+      "nodeType": 2,
+      "property": "gender"
+  },
+  {
+      "id": 85,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "同行类型",
+      "type": "text",
+      "id": 86,
+      "nodeType": 2,
+      "property": "together_type"
+  },
+  {
+      "label": "儿童年龄阶段",
+      "type": "text",
+      "id": 87,
+      "nodeType": 2,
+      "property": "child_stage"
+  },
+  {
+      "label": "同行人数",
+      "type": "text",
+      "id": 88,
+      "nodeType": 2,
+      "property": "together_num"
+  },
+  {
+      "label": "同行类型细分",
+      "type": "text",
+      "id": 89,
+      "nodeType": 2,
+      "property": "together_tag"
+  },
+  {
+      "label": "职业/角色",
+      "type": "text",
+      "id": 90,
+      "nodeType": 2,
+      "property": "profession"
+  },
+  {
+      "content": "",
+      "desc": " ",
+      "type": "text",
+      "id": 91,
+      "nodeType": 2,
+      "property": "uniform_style"
+  },
+  {
+      "id": 92,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "进场场门",
+      "type": "text",
+      "id": 93,
+      "nodeType": 2,
+      "property": "enter_door"
+  },
+  {
+      "label": "进场时间",
+      "type": "text",
+      "id": 94,
+      "nodeType": 2,
+      "property": "enter_door_time"
+  },
+  {
+      "label": "出场场门",
+      "type": "text",
+      "id": 95,
+      "nodeType": 2,
+      "property": "exit_door"
+  },
+  {
+      "label": "出场时间",
+      "type": "text",
+      "id": 96,
+      "nodeType": 2,
+      "property": "exit_door_time"
+  },
+  {
+      "id": 97,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "型号",
+      "type": "text",
+      "id": 98,
+      "nodeType": 2,
+      "property": "car_sub_brand"
+  },
+  {
+      "label": "车的类型",
+      "type": "text",
+      "id": 99,
+      "nodeType": 2,
+      "property": "car_model"
+  },
+  {
+      "label": "价格",
+      "type": "text",
+      "id": 100,
+      "nodeType": 2,
+      "property": "car_price"
+  },
+  {
+      "label": "车的档次",
+      "type": "text",
+      "id": 101,
+      "nodeType": 2,
+      "property": "car_grade"
+  },
+  {
+      "label": "车牌号",
+      "type": "text",
+      "id": 102,
+      "nodeType": 2,
+      "property": "car_plate_merge"
+  },
+  {
+      "label": "注册行政区",
+      "type": "text",
+      "id": 103,
+      "nodeType": 2,
+      "property": "car_registered_administrative_region"
+  },
+  {
+      "label": "靓号",
+      "type": "text",
+      "id": 104,
+      "nodeType": 2,
+      "property": "car_beautiful_name"
+  },
+  {
+      "label": "有车",
+      "type": "text",
+      "id": 105,
+      "nodeType": 2,
+      "property": "have_car"
+  },
+  {
+      "id": 106,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "小资",
+      "type": "text",
+      "id": 107,
+      "nodeType": 2,
+      "property": "sub_category_petty_bourgeoisie"
+  },
+  {
+      "label": "丽人",
+      "type": "text",
+      "id": 108,
+      "nodeType": 2,
+      "property": "sub_category_beauty"
+  },
+  {
+      "label": "知性",
+      "type": "text",
+      "id": 109,
+      "nodeType": 2,
+      "property": "sub_category_intellectuality"
+  },
+  {
+      "label": "艺术用户",
+      "type": "text",
+      "id": 110,
+      "nodeType": 2,
+      "property": "sub_category_art_users"
+  },
+  {
+      "label": "奢侈品用户",
+      "type": "text",
+      "id": 111,
+      "nodeType": 2,
+      "property": "sub_category_luxury"
+  },
+  {
+      "label": "周几",
+      "type": "text",
+      "id": 112,
+      "nodeType": 2,
+      "property": "day_of_week"
+  },
+  {
+      "label": "工作日",
+      "type": "text",
+      "id": 113,
+      "nodeType": 2,
+      "property": "is_workday"
+  },
+  {
+      "label": "节假日",
+      "type": "text",
+      "id": 114,
+      "nodeType": 2,
+      "property": "is_holiday"
+  },
+  {
+      "label": "特殊节日",
+      "type": "text",
+      "id": 115,
+      "nodeType": 2,
+      "property": "is_specail_day"
+  },
+  {
+      "label": "楼层停留信息",
+      "type": "text",
+      "id": 116,
+      "nodeType": 2,
+      "property": "floor_dwell_list"
+  },
+  {
+      "label": "楼层事件开始时间",
+      "type": "text",
+      "id": 117,
+      "nodeType": 2,
+      "property": "floor_st"
+  },
+  {
+      "label": "楼层事件结束时间",
+      "type": "text",
+      "id": 118,
+      "nodeType": 2,
+      "property": "floor_et"
+  },
+  {
+      "label": "迷路",
+      "type": "text",
+      "id": 119,
+      "nodeType": 2,
+      "property": "flag_miss_road"
+  },
+  {
+      "label": "长距离行走",
+      "type": "text",
+      "id": 120,
+      "nodeType": 2,
+      "property": "flag_long_walk"
+  },
+  {
+      "label": "途中停歇",
+      "type": "text",
+      "id": 121,
+      "nodeType": 2,
+      "property": "flag_stay_inwalk"
+  },
+  {
+      "label": "步行平均速度",
+      "type": "text",
+      "id": 122,
+      "nodeType": 2,
+      "property": "over_all_walk_speed"
+  },
+  {
+      "label": "步行距离",
+      "type": "text",
+      "id": 123,
+      "nodeType": 2,
+      "property": "detail_walk_tracelength"
+  },
+  {
+      "label": "直线步行",
+      "type": "text",
+      "id": 124,
+      "nodeType": 2,
+      "property": "has_straight_line"
+  },
+  {
+      "label": "在场外逗留时长",
+      "type": "text",
+      "id": 125,
+      "nodeType": 2,
+      "property": "outmall_time_sum"
+  },
+  {
+      "label": "服务区停留时长",
+      "type": "text",
+      "id": 126,
+      "nodeType": 2,
+      "property": "service_time_sum"
+  },
+  {
+      "label": "坐电梯时长",
+      "type": "text",
+      "id": 127,
+      "nodeType": 2,
+      "property": "lift_time_sum"
+  },
+  {
+      "label": "厕所停留时长",
+      "type": "text",
+      "id": 128,
+      "nodeType": 2,
+      "property": "wc_time_sum"
+  },
+  {
+      "label": "休息区停留时长",
+      "type": "text",
+      "id": 129,
+      "nodeType": 2,
+      "property": "rest_time_sum"
+  },
+  {
+      "label": "24小时服务台停留时长",
+      "type": "text",
+      "id": 130,
+      "nodeType": 2,
+      "property": "dict_24_hour"
+  },
+  {
+      "label": "连续浅逛",
+      "type": "text",
+      "id": 131,
+      "nodeType": 2,
+      "property": "flag_not_deep_instore"
+  },
+  {
+      "label": "多次深逛",
+      "type": "text",
+      "id": 132,
+      "nodeType": 2,
+      "property": "flag_muti_deep_instore"
+  },
+  {
+      "label": "折返",
+      "type": "text",
+      "id": 133,
+      "nodeType": 2,
+      "property": "flag_zhenfan"
+  },
+  {
+      "label": "折返店铺",
+      "type": "text",
+      "id": 134,
+      "nodeType": 2,
+      "property": "zhefan_store_list"
+  },
+  {
+      "label": "进店时长",
+      "type": "text",
+      "id": 135,
+      "nodeType": 2,
+      "property": "instore_time_sum"
+  },
+  {
+      "label": "进店个数",
+      "type": "text",
+      "id": 136,
+      "nodeType": 2,
+      "property": "instore_num"
+  },
+  {
+      "label": "首次进店时间",
+      "type": "text",
+      "id": 137,
+      "nodeType": 2,
+      "property": "first_vist_store_time"
+  },
+  {
+      "label": "首次进店距离",
+      "type": "text",
+      "id": 138,
+      "nodeType": 2,
+      "property": "first_vist_store_distance"
+  },
+  {
+      "label": "加速进店",
+      "type": "text",
+      "id": 139,
+      "nodeType": 2,
+      "property": "speed_up_flag"
+  },
+  {
+      "label": "加速进入的店铺",
+      "type": "text",
+      "id": 140,
+      "nodeType": 2,
+      "property": "speed_up_store_list"
+  },
+  {
+      "label": "最小开始逗留时间",
+      "type": "text",
+      "id": 141,
+      "nodeType": 2,
+      "property": "min_start_stay_time"
+  },
+  {
+      "label": "最大逗留时长",
+      "type": "text",
+      "id": 142,
+      "nodeType": 2,
+      "property": "max_stay_time"
+  },
+  {
+      "label": "放弃排队-餐饮",
+      "type": "text",
+      "id": 143,
+      "nodeType": 2,
+      "property": "give_up_the_queue"
+  },
+  {
+      "label": "餐饮排队时长",
+      "type": "text",
+      "id": 144,
+      "nodeType": 2,
+      "property": "line_up_for_meal_time_sum"
+  },
+  {
+      "label": "零售店抢购时长",
+      "type": "text",
+      "id": 145,
+      "nodeType": 2,
+      "property": "rush_to_purchase_time_sum"
+  },
+  {
+      "label": "公区逗留时长",
+      "type": "text",
+      "id": 146,
+      "nodeType": 2,
+      "property": "park_stop_time_sum"
+  },
+  {
+      "label": "总的逗留时间",
+      "type": "text",
+      "id": 147,
+      "nodeType": 2,
+      "property": "stay_time_sum"
+  },
+  {
+      "label": "放弃排队-流失",
+      "type": "text",
+      "id": 148,
+      "nodeType": 2,
+      "property": "consumer_retention"
+  },
+  {
+      "label": "放弃排队后进店",
+      "type": "text",
+      "id": 149,
+      "nodeType": 2,
+      "property": "consumer_retention_stores"
+  },
+  {
+      "label": "赶路 ",
+      "type": "text",
+      "id": 150,
+      "nodeType": 2,
+      "property": "ganlu"
+  },
+  {
+      "label": "聚会",
+      "type": "text",
+      "id": 151,
+      "nodeType": 2,
+      "property": "part_flag"
+  },
+  {
+      "label": "长时间停留",
+      "type": "text",
+      "id": 152,
+      "nodeType": 2,
+      "property": "long_stay_flag"
+  },
+  {
+      "label": "徘徊",
+      "type": "text",
+      "id": 153,
+      "nodeType": 2,
+      "property": "linger_flag"
+  },
+  {
+      "label": "逗留",
+      "type": "text",
+      "id": 154,
+      "nodeType": 2,
+      "property": "stay_flag"
+  },
+  {
+      "label": "等人",
+      "type": "text",
+      "id": 155,
+      "nodeType": 2,
+      "property": "wait_flag"
+  },
+  {
+      "label": "游逛时长",
+      "type": "text",
+      "id": 156,
+      "nodeType": 2,
+      "property": "mall_time"
+  },
+  {
+      "label": "逗留的区域信息",
+      "type": "text",
+      "id": 157,
+      "nodeType": 2,
+      "property": "stay_area_info"
+  },
+  {
+      "label": "无效时长",
+      "type": "text",
+      "id": 158,
+      "nodeType": 2,
+      "property": "invalid_duration"
+  },
+  {
+      "label": "有效时长",
+      "type": "text",
+      "id": 159,
+      "nodeType": 2,
+      "property": "effective_duration"
+  },
+  {
+      "id": 160,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "高冷人群",
+      "type": "text",
+      "id": 161,
+      "nodeType": 2,
+      "property": "high_cold_people"
+  },
+  {
+      "id": 163,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "content": "select pid as id,city as value from data_assets.user_profile_all_attributes_v2",
+      "desc": "",
+      "type": "text",
+      "id": 164,
+      "nodeType": 2,
+      "property": "city"
+  },
+  {
+      "content": "",
+      "desc": " ",
+      "type": "text",
+      "id": 165,
+      "nodeType": 2,
+      "property": "site"
+  },
+  {
+      "id": 166,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "id": 167,
+      "nodeType": 1,
+      "property": " "
+  },
+  {
+      "id": 169,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "会员等级",
+      "type": "text",
+      "id": 170,
+      "nodeType": 2,
+      "property": "vip_level_id"
+  },
+  {
+      "label": "注册时间",
+      "type": "text",
+      "id": 171,
+      "nodeType": 2,
+      "property": "vip_reg_at"
+  },
+  {
+      "id": 172,
+      "nodeType": 1,
+      "property": " "
+  },
+  {
+      "label": "注册性别",
+      "type": "text",
+      "id": 173,
+      "nodeType": 2,
+      "property": "vip_gender"
+  },
+  {
+      "label": "当前会员等级时间",
+      "type": "text",
+      "id": 174,
+      "nodeType": 2,
+      "property": "vip_current_vip_time"
+  },
+  {
+      "label": "当前会员等级存在时间",
+      "type": "text",
+      "id": 175,
+      "nodeType": 2,
+      "property": "vip_current_vip_time_value"
+  },
+  {
+      "label": "会员等级列表",
+      "type": "text",
+      "id": 176,
+      "nodeType": 2,
+      "property": "vip_level_ids"
+  },
+  {
+      "label": "升金时间",
+      "type": "text",
+      "id": 177,
+      "nodeType": 2,
+      "property": "vip_up_ats"
+  },
+  {
+      "label": "注册渠道",
+      "type": "text",
+      "id": 178,
+      "nodeType": 2,
+      "property": "reg_channel"
+  },
+  {
+      "id": 179,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "消费总额",
+      "type": "text",
+      "id": 180,
+      "nodeType": 2,
+      "property": "consumption_sales_amount_sum"
+  },
+  {
+      "label": "最大消费额",
+      "type": "text",
+      "id": 181,
+      "nodeType": 2,
+      "property": "max_consumption_sales_amount"
+  },
+  {
+      "label": "消费金额细节信息",
+      "type": "text",
+      "id": 182,
+      "nodeType": 2,
+      "property": "consumption_amount_list"
+  },
+  {
+      "label": "消费时间细节信息",
+      "type": "text",
+      "id": 183,
+      "nodeType": 2,
+      "property": "consumption_date_list"
+  },
+  {
+      "label": "消费时间排序",
+      "type": "text",
+      "id": 184,
+      "nodeType": 2,
+      "property": "consumption_sort_date_list"
+  },
+  {
+      "label": "消费频次",
+      "type": "text",
+      "id": 185,
+      "nodeType": 2,
+      "property": "consumption_frequency"
+  },
+  {
+      "label": "消费周期",
+      "type": "text",
+      "id": 186,
+      "nodeType": 2,
+      "property": "consumption_cycle"
+  },
+  {
+      "label": "消费周期分级",
+      "type": "text",
+      "id": 187,
+      "nodeType": 2,
+      "property": "consumption_cycle_tag"
+  },
+  {
+      "label": "当天消费次数",
+      "type": "text",
+      "id": 188,
+      "nodeType": 2,
+      "property": "consumption_0_day_times"
+  },
+  {
+      "label": "当天最大消费",
+      "type": "text",
+      "id": 189,
+      "nodeType": 2,
+      "property": "consumption_0_day_max"
+  },
+  {
+      "label": "当天最小消费",
+      "type": "text",
+      "id": 190,
+      "nodeType": 2,
+      "property": "consumption_0_day_min"
+  },
+  {
+      "label": "当天消费总和",
+      "type": "text",
+      "id": 191,
+      "nodeType": 2,
+      "property": "consumption_0_day_sum"
+  },
+  {
+      "label": "当天平均消费",
+      "type": "text",
+      "id": 192,
+      "nodeType": 2,
+      "property": "consumption_0_day_avg"
+  },
+  {
+      "label": "7天内消费次数",
+      "type": "text",
+      "id": 193,
+      "nodeType": 2,
+      "property": "consumption_7_day_times"
+  },
+  {
+      "label": "7天内消费最大值",
+      "type": "text",
+      "id": 194,
+      "nodeType": 2,
+      "property": "consumption_7_day_max"
+  },
+  {
+      "label": "7天内消费最小值",
+      "type": "text",
+      "id": 195,
+      "nodeType": 2,
+      "property": "consumption_7_day_min"
+  },
+  {
+      "label": "7天内消费总和",
+      "type": "text",
+      "id": 196,
+      "nodeType": 2,
+      "property": "consumption_7_day_sum"
+  },
+  {
+      "label": "7天内消费均值",
+      "type": "text",
+      "id": 197,
+      "nodeType": 2,
+      "property": "consumption_7_day_avg"
+  },
+  {
+      "label": "30天内消费次数",
+      "type": "text",
+      "id": 198,
+      "nodeType": 2,
+      "property": "consumption_30_day_times"
+  },
+  {
+      "label": "30天内消费最大值",
+      "type": "text",
+      "id": 199,
+      "nodeType": 2,
+      "property": "consumption_30_day_max"
+  },
+  {
+      "label": "30天内消费最小值",
+      "type": "text",
+      "id": 200,
+      "nodeType": 2,
+      "property": "consumption_30_day_min"
+  },
+  {
+      "label": "30天内消费总和",
+      "type": "text",
+      "id": 201,
+      "nodeType": 2,
+      "property": "consumption_30_day_sum"
+  },
+  {
+      "label": "30天内消费均值",
+      "type": "text",
+      "id": 202,
+      "nodeType": 2,
+      "property": "consumption_30_day_avg"
+  },
+  {
+      "label": "90天内消费次数",
+      "type": "text",
+      "id": 203,
+      "nodeType": 2,
+      "property": "consumption_90_day_times"
+  },
+  {
+      "label": "90天内消费最大值",
+      "type": "text",
+      "id": 204,
+      "nodeType": 2,
+      "property": "consumption_90_day_max"
+  },
+  {
+      "label": "90天内消费最小值",
+      "type": "text",
+      "id": 205,
+      "nodeType": 2,
+      "property": "consumption_90_day_min"
+  },
+  {
+      "label": "90天内消费总和",
+      "type": "text",
+      "id": 206,
+      "nodeType": 2,
+      "property": "consumption_90_day_sum"
+  },
+  {
+      "label": "90天内消费均值",
+      "type": "text",
+      "id": 207,
+      "nodeType": 2,
+      "property": "consumption_90_day_avg"
+  },
+  {
+      "label": "180天内消费次数",
+      "type": "text",
+      "id": 208,
+      "nodeType": 2,
+      "property": "consumption_180_day_times"
+  },
+  {
+      "label": "180天内消费最大值",
+      "type": "text",
+      "id": 209,
+      "nodeType": 2,
+      "property": "consumption_180_day_max"
+  },
+  {
+      "label": "180天内消费最小值",
+      "type": "text",
+      "id": 210,
+      "nodeType": 2,
+      "property": "consumption_180_day_min"
+  },
+  {
+      "label": "180天内消费总和",
+      "type": "text",
+      "id": 211,
+      "nodeType": 2,
+      "property": "consumption_180_day_sum"
+  },
+  {
+      "label": "180天内消费均值",
+      "type": "text",
+      "id": 212,
+      "nodeType": 2,
+      "property": "consumption_180_day_avg"
+  },
+  {
+      "label": "365天内消费次数",
+      "type": "text",
+      "id": 213,
+      "nodeType": 2,
+      "property": "consumption_365_day_times"
+  },
+  {
+      "label": "365天内消费最大值",
+      "type": "text",
+      "id": 214,
+      "nodeType": 2,
+      "property": "consumption_365_day_max"
+  },
+  {
+      "label": "365天内消费最小值",
+      "type": "text",
+      "id": 215,
+      "nodeType": 2,
+      "property": "consumption_365_day_min"
+  },
+  {
+      "label": "365天内消费总和",
+      "type": "text",
+      "id": 216,
+      "nodeType": 2,
+      "property": "consumption_365_day_sum"
+  },
+  {
+      "label": "365天内消费均值",
+      "type": "text",
+      "id": 217,
+      "nodeType": 2,
+      "property": "consumption_365_day_avg"
+  },
+  {
+      "label": "首次消费时间",
+      "type": "text",
+      "id": 218,
+      "nodeType": 2,
+      "property": "vip_first_consumption_time"
+  },
+  {
+      "label": "最后一次消费时间",
+      "type": "text",
+      "id": 219,
+      "nodeType": 2,
+      "property": "vip_last_consumption_time"
+  },
+  {
+      "label": "激活速度",
+      "type": "text",
+      "id": 220,
+      "nodeType": 2,
+      "property": "vip_activate_speed"
+  },
+  {
+      "label": "第一次消费距离现在时间",
+      "type": "text",
+      "id": 221,
+      "nodeType": 2,
+      "property": "consumption_first_to_now_time_difference"
+  },
+  {
+      "label": "近期活跃",
+      "type": "text",
+      "id": 222,
+      "nodeType": 2,
+      "property": "consumption_recent_activity"
+  },
+  {
+      "label": "最近一天消费金额",
+      "type": "text",
+      "id": 223,
+      "nodeType": 2,
+      "property": "consumption_last_consumption_amount"
+  },
+  {
+      "id": 224,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "1st潜在意向店铺",
+      "type": "text",
+      "id": 225,
+      "nodeType": 2,
+      "property": "potential_intention_store_1st"
+  },
+  {
+      "label": "2nd潜在意向店铺",
+      "type": "text",
+      "id": 226,
+      "nodeType": 2,
+      "property": "potential_intention_store_2nd"
+  },
+  {
+      "label": "3rd潜在意向店铺",
+      "type": "text",
+      "id": 227,
+      "nodeType": 2,
+      "property": "potential_intention_store_3rd"
+  },
+  {
+      "label": "潜在消费力水平",
+      "type": "text",
+      "id": 228,
+      "nodeType": 2,
+      "property": "potential_spending_power"
+  },
+  {
+      "label": "潜在返场概率",
+      "type": "text",
+      "id": 229,
+      "nodeType": 2,
+      "property": "potential_return_trade_pro"
+  },
+  {
+      "label": "潜在返场概率(交易)",
+      "type": "text",
+      "id": 230,
+      "nodeType": 2,
+      "property": "potential_return_trade_pro_original"
+  },
+  {
+      "id": 231,
+      "nodeType": 1,
+      "property": ""
+  },
+  {
+      "label": "30天消费间隔",
+      "type": "text",
+      "id": 232,
+      "nodeType": 2,
+      "property": "RFM_R5_30"
+  },
+  {
+      "label": "30天消费频率",
+      "type": "text",
+      "id": 233,
+      "nodeType": 2,
+      "property": "RFM_F5_30"
+  },
+  {
+      "label": "30天消费金额",
+      "type": "text",
+      "id": 234,
+      "nodeType": 2,
+      "property": "RFM_M5_30"
+  },
+  {
+      "label": "30天RFM",
+      "type": "text",
+      "id": 235,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_30"
+  },
+  {
+      "label": "30天RFM（cn）",
+      "type": "text",
+      "id": 236,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_30cn"
+  },
+  {
+      "label": "90天消费间隔",
+      "type": "text",
+      "id": 237,
+      "nodeType": 2,
+      "property": "RFM_R5_90"
+  },
+  {
+      "label": "90天消费频率",
+      "type": "text",
+      "id": 238,
+      "nodeType": 2,
+      "property": "RFM_F5_90"
+  },
+  {
+      "label": "90天消费金额",
+      "type": "text",
+      "id": 239,
+      "nodeType": 2,
+      "property": "RFM_M5_90"
+  },
+  {
+      "label": "90天RFM",
+      "type": "text",
+      "id": 240,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_90"
+  },
+  {
+      "label": "90天RFM（cn）",
+      "type": "text",
+      "id": 241,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_90cn"
+  },
+  {
+      "label": "180天消费间隔",
+      "type": "text",
+      "id": 242,
+      "nodeType": 2,
+      "property": "RFM_R5_180"
+  },
+  {
+      "label": "180天消费频率",
+      "type": "text",
+      "id": 243,
+      "nodeType": 2,
+      "property": "RFM_F5_180"
+  },
+  {
+      "label": "180天消费金额",
+      "type": "text",
+      "id": 244,
+      "nodeType": 2,
+      "property": "RFM_M5_180"
+  },
+  {
+      "label": "180天RFM",
+      "type": "text",
+      "id": 245,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_180"
+  },
+  {
+      "label": "180天RFM（cn）",
+      "type": "text",
+      "id": 246,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_180cn"
+  },
+  {
+      "label": "365天消费间隔",
+      "type": "text",
+      "id": 247,
+      "nodeType": 2,
+      "property": "RFM_R5_365"
+  },
+  {
+      "label": "365天消费频率",
+      "type": "text",
+      "id": 248,
+      "nodeType": 2,
+      "property": "RFM_F5_365"
+  },
+  {
+      "label": "365天消费金额",
+      "type": "text",
+      "id": 249,
+      "nodeType": 2,
+      "property": "RFM_M5_365"
+  },
+  {
+      "label": "365天RFM",
+      "type": "text",
+      "id": 250,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_365"
+  },
+  {
+      "label": "365天RFM（cn）",
+      "type": "text",
+      "id": 251,
+      "nodeType": 2,
+      "property": "RFM_R5F5M5_365cn"
+  },
+  {
+      "content": "",
+      "desc": " ",
+      "type": "text",
+      "id": 252,
+      "nodeType": 2,
+      "property": "cloth_style1"
+  },
+  {
+      "content": "select pid as id, cloth_length1 as value from data_assets.user_profile_all_attributes_v2  ",
+      "desc": "上衣衣服长度",
+      "type": "text",
+      "id": 253,
+      "nodeType": 2,
+      "property": "cloth_length1"
+  },
+  {
+      "id": 254,
+      "nodeType": 1,
+      "property": " "
+  },
+  {
+      "content": "",
+      "desc": "dsds",
+      "type": "text",
+      "id": 255,
+      "nodeType": 2,
+      "property": "pant_style1"
+  },
+  {
+      "content": "",
+      "desc": "",
+      "type": "text",
+      "id": 256,
+      "nodeType": 2,
+      "property": "pant_length1"
+  },
+  {
+      "content": "",
+      "desc": "好",
+      "type": "text",
+      "id": 257,
+      "nodeType": 2,
+      "property": "pant_color1_1"
+  },
+  {
+      "content": "",
+      "desc": " ",
+      "type": "text",
+      "id": 258,
+      "nodeType": 2,
+      "property": "hair_style"
+  },
+  {
+      "content": "",
+      "desc": "dsa",
+      "type": "text",
+      "id": 259,
+      "nodeType": 2,
+      "property": "shoe_style"
+  },
+  {
+      "content": "",
+      "desc": "dsa",
+      "type": "text",
+      "id": 260,
+      "nodeType": 2,
+      "property": "shoe_color1"
+  },
+  {
+      "content": "",
+      "desc": "dsa",
+      "type": "text",
+      "id": 261,
+      "nodeType": 2,
+      "property": "hat_style"
+  },
+  {
+      "content": "",
+      "desc": "",
+      "type": "text",
+      "id": 262,
+      "nodeType": 2,
+      "property": "hat_color1"
+  },
+  {
+      "content": "",
+      "desc": " ",
+      "type": "text",
+      "id": 263,
+      "nodeType": 2,
+      "property": "scarf_style"
+  },
+  {
+      "content": "select pid,bag_style from data_assets.user_profile_all_attributes_v2 \nwhere brand = 'zhdc' \nand city = 'ningbo' \nand site = 'hyc'\nand dt = '2022-04-18'\n",
+      "desc": "",
+      "type": "text",
+      "id": 264,
+      "nodeType": 2,
+      "property": "bag_style"
+  },
+  {
+      "label": "爱美女性",
+      "type": "text",
+      "id": 265,
+      "nodeType": 2,
+      "property": "female_beauty"
+  },
+  {
+      "label": "时尚靓女",
+      "type": "text",
+      "id": 266,
+      "nodeType": 2,
+      "property": "female_fashion"
+  },
+  {
+      "label": "休闲女性",
+      "type": "text",
+      "id": 267,
+      "nodeType": 2,
+      "property": "female_leisure"
+  },
+  {
+      "label": "美食饕餮",
+      "type": "text",
+      "id": 268,
+      "nodeType": 2,
+      "property": "edacity"
+  },
+  {
+      "label": "居家女性",
+      "type": "text",
+      "id": 269,
+      "nodeType": 2,
+      "property": "female_house"
+  },
+  {
+      "label": "妇女之友",
+      "type": "text",
+      "id": 270,
+      "nodeType": 2,
+      "property": "male_feminine"
+  },
+  {
+      "label": "时尚潮男",
+      "type": "text",
+      "id": 271,
+      "nodeType": 2,
+      "property": "male_fashion"
+  },
+  {
+      "label": "科技玩家",
+      "type": "text",
+      "id": 272,
+      "nodeType": 2,
+      "property": "geek"
+  },
+  {
+      "label": "浪漫男士",
+      "type": "text",
+      "id": 273,
+      "nodeType": 2,
+      "property": "male_romance"
+  },
+  {
+      "label": "贵妇名媛",
+      "type": "text",
+      "id": 274,
+      "nodeType": 2,
+      "property": "dowager"
+  },
+  {
+      "label": "运动达人",
+      "type": "text",
+      "id": 275,
+      "nodeType": 2,
+      "property": "athlete"
+  },
+  {
+      "label": "居家男性",
+      "type": "text",
+      "id": 276,
+      "nodeType": 2,
+      "property": "male_house"
+  },
+  {
+      "label": "儿童教育",
+      "type": "text",
+      "id": 277,
+      "nodeType": 2,
+      "property": "child_education"
+  },
+  {
+      "label": "儿童零售",
+      "type": "text",
+      "id": 278,
+      "nodeType": 2,
+      "property": "child_retail"
+  },
+  {
+      "label": "儿童娱乐",
+      "type": "text",
+      "id": 279,
+      "nodeType": 2,
+      "property": "child_entertainment"
+  },
+  {
+      "label": "聚餐家庭",
+      "type": "text",
+      "id": 280,
+      "nodeType": 2,
+      "property": "family_fb"
+  },
+  {
+      "label": "休闲家庭",
+      "type": "text",
+      "id": 281,
+      "nodeType": 2,
+      "property": "family_leisure"
+  },
+  {
+      "label": "父母带娃",
+      "type": "text",
+      "id": 282,
+      "nodeType": 2,
+      "property": "family_parents"
+  },
+  {
+      "label": "祖辈带娃",
+      "type": "text",
+      "id": 283,
+      "nodeType": 2,
+      "property": "family_grandparents"
+  },
+  {
+      "label": "休闲情侣",
+      "type": "text",
+      "id": 284,
+      "nodeType": 2,
+      "property": "couple_leisure"
+  },
+  {
+      "label": "餐饮情侣",
+      "type": "text",
+      "id": 285,
+      "nodeType": 2,
+      "property": "couple_fb"
+  },
+  {
+      "label": "休闲闺蜜",
+      "type": "text",
+      "id": 286,
+      "nodeType": 2,
+      "property": "bestie_leisure"
+  },
+  {
+      "label": "餐饮闺蜜",
+      "type": "text",
+      "id": 287,
+      "nodeType": 2,
+      "property": "bestie_fb"
+  },
+  {
+      "label": "休闲老铁",
+      "type": "text",
+      "id": 288,
+      "nodeType": 2,
+      "property": "pal_leisure"
+  },
+  {
+      "label": "餐饮老铁",
+      "type": "text",
+      "id": 289,
+      "nodeType": 2,
+      "property": "pal_fb"
+  },
+  {
+      "label": "孤独美食",
+      "type": "text",
+      "id": 290,
+      "nodeType": 2,
+      "property": "alone_fb"
+  },
+  {
+      "label": "独自玩乐",
+      "type": "text",
+      "id": 291,
+      "nodeType": 2,
+      "property": "alone_entertainment"
+  },
+  {
+      "label": "穿堂客群",
+      "type": "text",
+      "id": 292,
+      "nodeType": 2,
+      "property": "commuting"
+  },
+  {
+      "label": "无特征",
+      "type": "text",
+      "id": 293,
+      "nodeType": 2,
+      "property": "others"
+  },
+  {
+      "label": "服饰鞋包业态",
+      "type": "text",
+      "id": 294,
+      "nodeType": 2,
+      "property": "sub_category_apparel"
+  },
+  {
+      "label": "美护业态",
+      "type": "text",
+      "id": 295,
+      "nodeType": 2,
+      "property": "sub_category_beautycare"
+  },
+  {
+      "label": "休闲业态",
+      "type": "text",
+      "id": 296,
+      "nodeType": 2,
+      "property": "sub_category_leisure"
+  },
+  {
+      "label": "其它业态",
+      "type": "text",
+      "id": 297,
+      "nodeType": 2,
+      "property": "sub_category_other"
+  },
+  {
+      "label": "居家采购业态",
+      "type": "text",
+      "id": 298,
+      "nodeType": 2,
+      "property": "sub_category_home"
+  },
+  {
+      "label": "运动业态",
+      "type": "text",
+      "id": 299,
+      "nodeType": 2,
+      "property": "sub_category_sporting"
+  },
+  {
+      "label": "餐饮业态",
+      "type": "text",
+      "id": 300,
+      "nodeType": 2,
+      "property": "sub_category_fb"
+  },
+  {
+      "content": "",
+      "desc": "餐饮",
+      "type": "text",
+      "id": 305,
+      "nodeType": 2,
+      "property": "sub_category_fb"
+  }
+]

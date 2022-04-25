@@ -1,0 +1,979 @@
+[
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "value": 30,
+                        "label": "品牌",
+                        "pid": 6,
+                        "tagType": 7
+                    }
+                ],
+                "value": 6,
+                "label": "唱歌",
+                "nodeType": 1,
+                "pid": 4,
+                "tagType": 1
+            },
+            {
+                "value": 13,
+                "label": "网球",
+                "nodeType": 2,
+                "pid": 4,
+                "tagType": 1
+            },
+            {
+                "children": [
+                    {
+                        "value": 99,
+                        "label": "车的类型"
+                    },
+                    {
+                        "value": 100,
+                        "label": "价格"
+                    },
+                    {
+                        "value": 101,
+                        "label": "车的档次"
+                    },
+                    {
+                        "value": 102,
+                        "label": "车牌号"
+                    },
+                    {
+                        "value": 103,
+                        "label": "注册行政区"
+                    },
+                    {
+                        "value": 104,
+                        "label": "靓号"
+                    },
+                    {
+                        "value": 167,
+                        "label": "test",
+                        "nodeType": 1,
+                        "tagType": 0
+                    }
+                ],
+                "value": 97,
+                "label": "车的信息",
+                "nodeType": 1,
+                "pid": 4,
+                "tagType": 6
+            },
+            {
+                "value": 98,
+                "label": "型号",
+                "nodeType": 2,
+                "pid": 4,
+                "tagType": 10
+            },
+            {
+                "value": 172,
+                "label": "生日好好",
+                "nodeType": 1,
+                "pid": 4,
+                "tagType": 0
+            }
+        ],
+        "value": 4,
+        "label": "跑步",
+        "nodeType": 2,
+        "pid": -1,
+        "tagType": 1
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "value": 82,
+                        "label": "客流ID"
+                    },
+                    {
+                        "value": 83,
+                        "label": "年龄段"
+                    },
+                    {
+                        "value": 84,
+                        "label": "性别"
+                    },
+                    {
+                        "value": 87,
+                        "label": "儿童年龄阶段"
+                    },
+                    {
+                        "value": 90,
+                        "label": "职业/角色"
+                    },
+                    {
+                        "value": 91,
+                        "label": "制服/职业"
+                    },
+                    {
+                        "value": 105,
+                        "label": "有车"
+                    },
+                    {
+                        "value": 252,
+                        "label": "上衣款式"
+                    },
+                    {
+                        "value": 253,
+                        "label": "上衣长度"
+                    },
+                    {
+                        "value": 255,
+                        "label": "裤子款式"
+                    },
+                    {
+                        "value": 256,
+                        "label": "裤子长度"
+                    },
+                    {
+                        "value": 257,
+                        "label": "裤子颜色"
+                    },
+                    {
+                        "value": 258,
+                        "label": "发型"
+                    },
+                    {
+                        "value": 259,
+                        "label": "鞋款式"
+                    },
+                    {
+                        "value": 260,
+                        "label": "鞋颜色"
+                    },
+                    {
+                        "value": 261,
+                        "label": "帽子款式"
+                    },
+                    {
+                        "value": 262,
+                        "label": "帽子颜色"
+                    },
+                    {
+                        "value": 263,
+                        "label": "是否戴围巾"
+                    },
+                    {
+                        "value": 264,
+                        "label": "包款式"
+                    }
+                ],
+                "value": 59,
+                "label": "基础信息",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 86,
+                        "label": "同行类型"
+                    },
+                    {
+                        "value": 88,
+                        "label": "同行人数"
+                    },
+                    {
+                        "value": 89,
+                        "label": "同行类型细分"
+                    }
+                ],
+                "value": 85,
+                "label": "人员同行",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 93,
+                        "label": "进场场门"
+                    },
+                    {
+                        "value": 94,
+                        "label": "进场时间"
+                    },
+                    {
+                        "value": 95,
+                        "label": "出场场门"
+                    },
+                    {
+                        "value": 96,
+                        "label": "出场时间"
+                    },
+                    {
+                        "value": 116,
+                        "label": "楼层停留信息"
+                    },
+                    {
+                        "value": 117,
+                        "label": "楼层事件开始时间"
+                    },
+                    {
+                        "value": 118,
+                        "label": "楼层事件结束时间"
+                    },
+                    {
+                        "value": 119,
+                        "label": "迷路"
+                    },
+                    {
+                        "value": 120,
+                        "label": "长距离行走"
+                    },
+                    {
+                        "value": 121,
+                        "label": "途中停歇"
+                    },
+                    {
+                        "value": 122,
+                        "label": "步行平均速度"
+                    },
+                    {
+                        "value": 123,
+                        "label": "步行距离"
+                    },
+                    {
+                        "value": 124,
+                        "label": "直线步行"
+                    },
+                    {
+                        "value": 125,
+                        "label": "在场外逗留时长"
+                    },
+                    {
+                        "value": 126,
+                        "label": "服务区停留时长"
+                    },
+                    {
+                        "value": 127,
+                        "label": "坐电梯时长"
+                    },
+                    {
+                        "value": 128,
+                        "label": "厕所停留时长"
+                    },
+                    {
+                        "value": 129,
+                        "label": "休息区停留时长"
+                    },
+                    {
+                        "value": 130,
+                        "label": "24小时服务台停留时长"
+                    },
+                    {
+                        "value": 131,
+                        "label": "连续浅逛"
+                    },
+                    {
+                        "value": 132,
+                        "label": "多次深逛"
+                    },
+                    {
+                        "value": 133,
+                        "label": "折返"
+                    },
+                    {
+                        "value": 134,
+                        "label": "折返店铺"
+                    },
+                    {
+                        "value": 135,
+                        "label": "进店时长"
+                    },
+                    {
+                        "value": 136,
+                        "label": "进店个数"
+                    },
+                    {
+                        "value": 137,
+                        "label": "首次进店时间"
+                    },
+                    {
+                        "value": 138,
+                        "label": "首次进店距离"
+                    },
+                    {
+                        "value": 139,
+                        "label": "加速进店"
+                    },
+                    {
+                        "value": 140,
+                        "label": "加速进入的店铺"
+                    },
+                    {
+                        "value": 141,
+                        "label": "最小开始逗留时间"
+                    },
+                    {
+                        "value": 142,
+                        "label": "最大逗留时长"
+                    },
+                    {
+                        "value": 143,
+                        "label": "放弃排队-餐饮"
+                    },
+                    {
+                        "value": 144,
+                        "label": "餐饮排队时长"
+                    },
+                    {
+                        "value": 145,
+                        "label": "零售店抢购时长"
+                    },
+                    {
+                        "value": 146,
+                        "label": "公区逗留时长"
+                    },
+                    {
+                        "value": 147,
+                        "label": "总的逗留时间"
+                    },
+                    {
+                        "value": 148,
+                        "label": "放弃排队-流失"
+                    },
+                    {
+                        "value": 149,
+                        "label": "放弃排队后进店"
+                    },
+                    {
+                        "value": 150,
+                        "label": "赶路 "
+                    },
+                    {
+                        "value": 151,
+                        "label": "聚会"
+                    },
+                    {
+                        "value": 152,
+                        "label": "长时间停留"
+                    },
+                    {
+                        "value": 153,
+                        "label": "徘徊"
+                    },
+                    {
+                        "value": 154,
+                        "label": "逗留"
+                    },
+                    {
+                        "value": 155,
+                        "label": "等人"
+                    },
+                    {
+                        "value": 156,
+                        "label": "游逛时长"
+                    },
+                    {
+                        "value": 157,
+                        "label": "逗留的区域信息"
+                    },
+                    {
+                        "value": 158,
+                        "label": "无效时长"
+                    },
+                    {
+                        "value": 159,
+                        "label": "有效时长"
+                    }
+                ],
+                "value": 92,
+                "label": "行为事件",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 107,
+                        "label": "小资"
+                    },
+                    {
+                        "value": 108,
+                        "label": "丽人"
+                    },
+                    {
+                        "value": 109,
+                        "label": "知性"
+                    },
+                    {
+                        "value": 110,
+                        "label": "艺术用户"
+                    },
+                    {
+                        "value": 111,
+                        "label": "奢侈品用户"
+                    },
+                    {
+                        "value": 112,
+                        "label": "周几"
+                    },
+                    {
+                        "value": 113,
+                        "label": "工作日"
+                    },
+                    {
+                        "value": 114,
+                        "label": "节假日"
+                    },
+                    {
+                        "value": 115,
+                        "label": "特殊节日"
+                    },
+                    {
+                        "value": 294,
+                        "label": "服饰鞋包业态"
+                    },
+                    {
+                        "value": 295,
+                        "label": "美护业态"
+                    },
+                    {
+                        "value": 296,
+                        "label": "休闲业态"
+                    },
+                    {
+                        "value": 297,
+                        "label": "其它业态"
+                    },
+                    {
+                        "value": 298,
+                        "label": "居家采购业态"
+                    },
+                    {
+                        "value": 299,
+                        "label": "运动业态"
+                    },
+                    {
+                        "value": 300,
+                        "label": "餐饮业态"
+                    },
+                    {
+                        "value": 305,
+                        "label": "餐饮业态"
+                    }
+                ],
+                "value": 106,
+                "label": "偏好",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 161,
+                        "label": "高冷人群"
+                    },
+                    {
+                        "value": 265,
+                        "label": "爱美女性"
+                    },
+                    {
+                        "value": 266,
+                        "label": "时尚靓女"
+                    },
+                    {
+                        "value": 267,
+                        "label": "休闲女性"
+                    },
+                    {
+                        "value": 268,
+                        "label": "美食饕餮"
+                    },
+                    {
+                        "value": 269,
+                        "label": "居家女性"
+                    },
+                    {
+                        "value": 270,
+                        "label": "妇女之友"
+                    },
+                    {
+                        "value": 271,
+                        "label": "时尚潮男"
+                    },
+                    {
+                        "value": 272,
+                        "label": "科技玩家"
+                    },
+                    {
+                        "value": 273,
+                        "label": "浪漫男士"
+                    },
+                    {
+                        "value": 274,
+                        "label": "贵妇名媛"
+                    },
+                    {
+                        "value": 275,
+                        "label": "运动达人"
+                    },
+                    {
+                        "value": 276,
+                        "label": "居家男性"
+                    },
+                    {
+                        "value": 277,
+                        "label": "儿童教育"
+                    },
+                    {
+                        "value": 278,
+                        "label": "儿童零售"
+                    },
+                    {
+                        "value": 279,
+                        "label": "儿童娱乐"
+                    },
+                    {
+                        "value": 280,
+                        "label": "聚餐家庭"
+                    },
+                    {
+                        "value": 281,
+                        "label": "休闲家庭"
+                    },
+                    {
+                        "value": 282,
+                        "label": "父母带娃"
+                    },
+                    {
+                        "value": 283,
+                        "label": "祖辈带娃"
+                    },
+                    {
+                        "value": 284,
+                        "label": "休闲情侣"
+                    },
+                    {
+                        "value": 285,
+                        "label": "餐饮情侣"
+                    },
+                    {
+                        "value": 286,
+                        "label": "休闲闺蜜"
+                    },
+                    {
+                        "value": 287,
+                        "label": "餐饮闺蜜"
+                    },
+                    {
+                        "value": 288,
+                        "label": "休闲老铁"
+                    },
+                    {
+                        "value": 289,
+                        "label": "餐饮老铁"
+                    },
+                    {
+                        "value": 290,
+                        "label": "孤独美食"
+                    },
+                    {
+                        "value": 291,
+                        "label": "独自玩乐"
+                    },
+                    {
+                        "value": 292,
+                        "label": "穿堂客群"
+                    },
+                    {
+                        "value": 293,
+                        "label": "无特征"
+                    }
+                ],
+                "value": 160,
+                "label": "客群",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 170,
+                        "label": "会员等级"
+                    },
+                    {
+                        "value": 171,
+                        "label": "注册时间"
+                    },
+                    {
+                        "value": 173,
+                        "label": "注册性别"
+                    },
+                    {
+                        "value": 174,
+                        "label": "当前会员等级时间"
+                    },
+                    {
+                        "value": 175,
+                        "label": "当前会员等级存在时间"
+                    },
+                    {
+                        "value": 176,
+                        "label": "会员等级列表"
+                    },
+                    {
+                        "value": 177,
+                        "label": "升金时间"
+                    },
+                    {
+                        "value": 178,
+                        "label": "注册渠道"
+                    }
+                ],
+                "value": 169,
+                "label": "会员信息",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 180,
+                        "label": "消费总额"
+                    },
+                    {
+                        "value": 181,
+                        "label": "最大消费额"
+                    },
+                    {
+                        "value": 182,
+                        "label": "消费金额细节信息"
+                    },
+                    {
+                        "value": 183,
+                        "label": "消费时间细节信息"
+                    },
+                    {
+                        "value": 184,
+                        "label": "消费时间排序"
+                    },
+                    {
+                        "value": 185,
+                        "label": "消费频次"
+                    },
+                    {
+                        "value": 186,
+                        "label": "消费周期"
+                    },
+                    {
+                        "value": 187,
+                        "label": "消费周期分级"
+                    },
+                    {
+                        "value": 188,
+                        "label": "当天消费次数"
+                    },
+                    {
+                        "value": 189,
+                        "label": "当天最大消费"
+                    },
+                    {
+                        "value": 190,
+                        "label": "当天最小消费"
+                    },
+                    {
+                        "value": 191,
+                        "label": "当天消费总和"
+                    },
+                    {
+                        "value": 192,
+                        "label": "当天平均消费"
+                    },
+                    {
+                        "value": 193,
+                        "label": "7天内消费次数"
+                    },
+                    {
+                        "value": 194,
+                        "label": "7天内消费最大值"
+                    },
+                    {
+                        "value": 195,
+                        "label": "7天内消费最小值"
+                    },
+                    {
+                        "value": 196,
+                        "label": "7天内消费总和"
+                    },
+                    {
+                        "value": 197,
+                        "label": "7天内消费均值"
+                    },
+                    {
+                        "value": 198,
+                        "label": "30天内消费次数"
+                    },
+                    {
+                        "value": 199,
+                        "label": "30天内消费最大值"
+                    },
+                    {
+                        "value": 200,
+                        "label": "30天内消费最小值"
+                    },
+                    {
+                        "value": 201,
+                        "label": "30天内消费总和"
+                    },
+                    {
+                        "value": 202,
+                        "label": "30天内消费均值"
+                    },
+                    {
+                        "value": 203,
+                        "label": "90天内消费次数"
+                    },
+                    {
+                        "value": 204,
+                        "label": "90天内消费最大值"
+                    },
+                    {
+                        "value": 205,
+                        "label": "90天内消费最小值"
+                    },
+                    {
+                        "value": 206,
+                        "label": "90天内消费总和"
+                    },
+                    {
+                        "value": 207,
+                        "label": "90天内消费均值"
+                    },
+                    {
+                        "value": 208,
+                        "label": "180天内消费次数"
+                    },
+                    {
+                        "value": 209,
+                        "label": "180天内消费最大值"
+                    },
+                    {
+                        "value": 210,
+                        "label": "180天内消费最小值"
+                    },
+                    {
+                        "value": 211,
+                        "label": "180天内消费总和"
+                    },
+                    {
+                        "value": 212,
+                        "label": "180天内消费均值"
+                    },
+                    {
+                        "value": 213,
+                        "label": "365天内消费次数"
+                    },
+                    {
+                        "value": 214,
+                        "label": "365天内消费最大值"
+                    },
+                    {
+                        "value": 215,
+                        "label": "365天内消费最小值"
+                    },
+                    {
+                        "value": 216,
+                        "label": "365天内消费总和"
+                    },
+                    {
+                        "value": 217,
+                        "label": "365天内消费均值"
+                    },
+                    {
+                        "value": 218,
+                        "label": "首次消费时间"
+                    },
+                    {
+                        "value": 219,
+                        "label": "最后一次消费时间"
+                    },
+                    {
+                        "value": 220,
+                        "label": "激活速度"
+                    },
+                    {
+                        "value": 221,
+                        "label": "第一次消费距离现在时间"
+                    },
+                    {
+                        "value": 222,
+                        "label": "近期活跃"
+                    },
+                    {
+                        "value": 223,
+                        "label": "最近一天消费金额"
+                    }
+                ],
+                "value": 179,
+                "label": "消费特征",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 225,
+                        "label": "1st潜在意向店铺"
+                    },
+                    {
+                        "value": 226,
+                        "label": "2nd潜在意向店铺"
+                    },
+                    {
+                        "value": 227,
+                        "label": "3rd潜在意向店铺"
+                    },
+                    {
+                        "value": 228,
+                        "label": "潜在消费力水平"
+                    },
+                    {
+                        "value": 229,
+                        "label": "潜在返场概率"
+                    },
+                    {
+                        "value": 230,
+                        "label": "潜在返场概率(交易)"
+                    }
+                ],
+                "value": 224,
+                "label": "预测潜力",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            },
+            {
+                "children": [
+                    {
+                        "value": 232,
+                        "label": "30天消费间隔"
+                    },
+                    {
+                        "value": 233,
+                        "label": "30天消费频率"
+                    },
+                    {
+                        "value": 234,
+                        "label": "30天消费金额"
+                    },
+                    {
+                        "value": 235,
+                        "label": "30天RFM"
+                    },
+                    {
+                        "value": 236,
+                        "label": "30天RFM（cn）"
+                    },
+                    {
+                        "value": 237,
+                        "label": "90天消费间隔"
+                    },
+                    {
+                        "value": 238,
+                        "label": "90天消费频率"
+                    },
+                    {
+                        "value": 239,
+                        "label": "90天消费金额"
+                    },
+                    {
+                        "value": 240,
+                        "label": "90天RFM"
+                    },
+                    {
+                        "value": 241,
+                        "label": "90天RFM（cn）"
+                    },
+                    {
+                        "value": 242,
+                        "label": "180天消费间隔"
+                    },
+                    {
+                        "value": 243,
+                        "label": "180天消费频率"
+                    },
+                    {
+                        "value": 244,
+                        "label": "180天消费金额"
+                    },
+                    {
+                        "value": 245,
+                        "label": "180天RFM"
+                    },
+                    {
+                        "value": 246,
+                        "label": "180天RFM（cn）"
+                    },
+                    {
+                        "value": 247,
+                        "label": "365天消费间隔"
+                    },
+                    {
+                        "value": 248,
+                        "label": "365天消费频率"
+                    },
+                    {
+                        "value": 249,
+                        "label": "365天消费金额"
+                    },
+                    {
+                        "value": 250,
+                        "label": "365天RFM"
+                    },
+                    {
+                        "value": 251,
+                        "label": "365天RFM（cn）"
+                    }
+                ],
+                "value": 231,
+                "label": "统计模型",
+                "nodeType": 1,
+                "pid": 28,
+                "tagType": 6
+            }
+        ],
+        "value": 28,
+        "label": "标签",
+        "nodeType": 1,
+        "pid": -1,
+        "tagType": 0
+    },
+    {
+        "children": [
+            {
+                "value": 164,
+                "label": "城市",
+                "nodeType": 2,
+                "pid": 163,
+                "tagType": 10
+            },
+            {
+                "value": 165,
+                "label": "商场",
+                "nodeType": 2,
+                "pid": 163,
+                "tagType": 10
+            }
+        ],
+        "value": 163,
+        "label": "商场信息",
+        "nodeType": 1,
+        "pid": -1,
+        "tagType": 6
+    }
+]

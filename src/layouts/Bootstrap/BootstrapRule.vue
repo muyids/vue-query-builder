@@ -2,11 +2,15 @@
   <!-- eslint-disable vue/no-v-html -->
   <div class="vqb-rule card">
     <div class="form-inline">
-      <label class="mr-5">{{ rule.label }}</label>
-
+      <el-cascader
+        placeholder="请选择"
+        :options="ruleTree"
+        filterable
+        @change="ruleChange"
+      />
       <!-- List of operands (optional) -->
       <select
-        v-if="typeof rule.operands !== 'undefined'"
+        v-if="rule.operands !== undefined"
         v-model="query.operand"
         class="form-control mr-2"
       >
@@ -173,8 +177,46 @@
 
 <script>
 import QueryBuilderRule from '../../components/QueryBuilderRule';
-
+import tree from '../../tree.json'; 
 export default {
-  extends: QueryBuilderRule
+  extends: QueryBuilderRule,
+
+  props: {
+    rules: Array,
+  },
+
+  data() {
+    console.log(3333, this.rules)
+    return {
+      selectedRule: this.rules[0].id,
+      ruleTree: tree
+    }
+  },
+  methods: {
+     ruleById (ruleId) {
+      var rule = null;
+      this.rules.forEach(function(value){
+        if (value.id === ruleId) {
+          rule = value;
+          return false;
+        }
+      });
+      return rule;
+    },
+    ruleChange(data){
+      var ruleId = data[data.length - 1]
+      
+      var rule = this.ruleById(ruleId)
+      console.log(data, ruleId, rule)
+      var updated_query = {
+        rule: ruleId,
+        operator: rule.operators[0],
+        operand: typeof rule.operands === "undefined" ? rule.label : rule.operands[0],
+        value: this.query.value
+      }
+      this.$emit('update:query', updated_query);
+    },
+  }
 }
 </script>
+

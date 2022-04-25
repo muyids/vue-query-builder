@@ -41,19 +41,6 @@
     <div class="vqb-group-body card-body">
       <div class="rule-actions form-inline">
         <div class="form-group">
-          <select
-            v-model="selectedRule"
-            class="form-control mr-2"
-          >
-            <option
-              v-for="rule in rules"
-              :key="rule.id"
-              :value="rule"
-            >
-              {{ rule.label }}
-            </option>
-          </select>
-
           <button
             type="button"
             class="btn btn-secondary mr-2"
@@ -91,6 +78,7 @@ export default {
   },
 
   extends: QueryBuilderGroup,
+
 }
 </script>
 
